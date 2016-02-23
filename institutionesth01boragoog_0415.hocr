@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesth01boragoog_0415.png"; bbox 0 0 4584 5992; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 560 1419 3569 1983">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 560 1271 3685 1983">
+     <span class='ocr_line' id='line_1_1' title="bbox 560 1419 3569 1983; baseline -0.001 -248"><span class='ocrx_word' id='word_1_1' title='bbox 560 1419 3569 1983; x_wconf 44' lang='lat' dir='ltr'><strong>Appqssnlx</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 680 2119 3505 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 680 2119 3505 2251">
+     <span class='ocr_line' id='line_1_2' title="bbox 680 2119 3505 2251; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 680 2123 1580 2251; x_wconf 89' lang='lat' dir='ltr'>REGULIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1700 2119 2297 2243; x_wconf 76' lang='lat' dir='ltr'>IURIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 2425 2127 3505 2247; x_wconf 53' lang='lat' dir='ltr'><strong>CANONICI*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 832 2387 3313 2487">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 832 2387 3313 2487">
+     <span class='ocr_line' id='line_1_3' title="bbox 832 2387 3313 2487; baseline -0.002 -16"><span class='ocrx_word' id='word_1_5' title='bbox 832 2403 972 2471; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1060 2391 1588 2487; x_wconf 72' lang='lat' dir='ltr'>QUINTO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1680 2391 1840 2467; x_wconf 73' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1920 2387 2317 2467; x_wconf 75' lang='lat' dir='ltr'>&#39;SEXTO</span> <span class='ocrx_word' id='word_1_9' title='bbox 2409 2391 3313 2467; x_wconf 72' lang='lat' dir='ltr'>DECRETALIUM</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
